@@ -11,3 +11,4 @@ function mergeObj(obj1, obj2) {
 let obj1 = { name: "John", age: 30 };
 let obj2 = { age: 40, city: "New York" };
 mergeObj(obj1, obj2);
+
